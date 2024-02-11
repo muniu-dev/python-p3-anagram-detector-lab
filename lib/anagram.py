@@ -1,4 +1,3 @@
-# your code goes here!
 class Anagram:
 
     def match(self, word_list):
